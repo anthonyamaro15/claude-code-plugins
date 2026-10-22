@@ -1,5 +1,7 @@
 # Claude Code plugins
 
+**English** · [Español](README.es.md)
+
 Two mods for the Claude Code terminal.
 
 - **usage-meter**: a token and cost line above the prompt, plus a popup with this session's usage and your last 24 hours to 90 days of Claude Code and Codex use.
