@@ -5,6 +5,8 @@ Two mods for the Claude Code terminal.
 - **usage-meter**: a token and cost line above the prompt, plus a popup with this session's usage and your last 24 hours to 90 days of Claude Code and Codex use.
 - **paste-viewer**: hover previews for images you paste, and a popup that shows long pasted prompts in full.
 
+![usage-meter's popup docked beside a Claude Code session, switching between 30-day cost, tokens, 90-day activity and limits](assets/usage-meter.gif)
+
 ## Install
 
 At the prompt of a Claude Code terminal session:
