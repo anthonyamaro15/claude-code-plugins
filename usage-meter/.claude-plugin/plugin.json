@@ -1,0 +1,12 @@
+{
+  "name": "usage-meter",
+  "version": "1.0.0",
+  "description": "Usage meter above the prompt; its popup shows this session's tokens and cost, or the last 24 hours to 90 days of Claude Code and Codex use on this computer",
+  "author": {
+    "name": "anthonyamaro15"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/anthonyamaro15/claude-code-plugins",
+  "homepage": "https://github.com/anthonyamaro15/claude-code-plugins/tree/main/usage-meter",
+  "types": "./types/index.d.ts"
+}

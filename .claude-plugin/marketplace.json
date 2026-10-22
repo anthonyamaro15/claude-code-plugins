@@ -1,0 +1,17 @@
+{
+  "name": "anthonyamaro15",
+  "description": "Claude Code mods: a usage and cost meter, and a viewer for pasted images and long prompts",
+  "owner": {
+    "name": "anthonyamaro15"
+  },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./usage-meter"
+    },
+    {
+      "name": "paste-viewer",
+      "source": "./paste-viewer"
+    }
+  ]
+}

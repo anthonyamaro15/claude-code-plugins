@@ -1,0 +1,12 @@
+{
+  "name": "paste-viewer",
+  "version": "1.0.0",
+  "description": "Hover previews for pasted images under your message, and a popup to read long pasted prompts in full",
+  "author": {
+    "name": "anthonyamaro15"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/anthonyamaro15/claude-code-plugins",
+  "homepage": "https://github.com/anthonyamaro15/claude-code-plugins/tree/main/paste-viewer",
+  "types": "./types/index.d.ts"
+}
